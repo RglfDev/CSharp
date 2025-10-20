@@ -1,0 +1,7 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\InventarioDeTienda\InventarioDeTienda\bin\Debug\InventarioDeTienda.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\InventarioDeTienda\InventarioDeTienda\bin\Debug\InventarioDeTienda.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\InventarioDeTienda\InventarioDeTienda\bin\Debug\InventarioDeTienda.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\InventarioDeTienda\InventarioDeTienda\obj\Debug\InventarioDeTienda.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\InventarioDeTienda\InventarioDeTienda\obj\Debug\InventarioDeTienda.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\InventarioDeTienda\InventarioDeTienda\obj\Debug\InventarioDeTienda.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\InventarioDeTienda\InventarioDeTienda\obj\Debug\InventarioDeTienda.pdb

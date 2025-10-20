@@ -1,0 +1,8 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ObjetosCSharp\ObjetosCSharp\bin\Debug\ObjetosCSharp.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ObjetosCSharp\ObjetosCSharp\bin\Debug\ObjetosCSharp.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ObjetosCSharp\ObjetosCSharp\bin\Debug\ObjetosCSharp.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ObjetosCSharp\ObjetosCSharp\obj\Debug\ObjetosCSharp.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ObjetosCSharp\ObjetosCSharp\obj\Debug\ObjetosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ObjetosCSharp\ObjetosCSharp\obj\Debug\ObjetosCSharp.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ObjetosCSharp\ObjetosCSharp\obj\Debug\ObjetosCSharp.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ObjetosCSharp\ObjetosCSharp\obj\Debug\ObjetosCSharp.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPSTATIC\CSHARPSTATIC\bin\Debug\CSHARPSTATIC.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPSTATIC\CSHARPSTATIC\bin\Debug\CSHARPSTATIC.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPSTATIC\CSHARPSTATIC\bin\Debug\CSHARPSTATIC.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPSTATIC\CSHARPSTATIC\obj\Debug\CSHARPSTATIC.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPSTATIC\CSHARPSTATIC\obj\Debug\CSHARPSTATIC.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPSTATIC\CSHARPSTATIC\obj\Debug\CSHARPSTATIC.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPSTATIC\CSHARPSTATIC\obj\Debug\CSHARPSTATIC.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPSTATIC\CSHARPSTATIC\obj\Debug\CSHARPSTATIC.exe.config

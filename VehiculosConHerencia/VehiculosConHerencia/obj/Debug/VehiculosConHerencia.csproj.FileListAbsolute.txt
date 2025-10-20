@@ -1,0 +1,7 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\VehiculosConHerencia\VehiculosConHerencia\bin\Debug\VehiculosConHerencia.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\VehiculosConHerencia\VehiculosConHerencia\bin\Debug\VehiculosConHerencia.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\VehiculosConHerencia\VehiculosConHerencia\bin\Debug\VehiculosConHerencia.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\VehiculosConHerencia\VehiculosConHerencia\obj\Debug\VehiculosConHerencia.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\VehiculosConHerencia\VehiculosConHerencia\obj\Debug\VehiculosConHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\VehiculosConHerencia\VehiculosConHerencia\obj\Debug\VehiculosConHerencia.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\VehiculosConHerencia\VehiculosConHerencia\obj\Debug\VehiculosConHerencia.pdb

@@ -1,0 +1,7 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ClaseAbstractaEInterfaz\ClaseAbstractaEInterfaz\bin\Debug\ClaseAbstractaEInterfaz.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ClaseAbstractaEInterfaz\ClaseAbstractaEInterfaz\bin\Debug\ClaseAbstractaEInterfaz.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ClaseAbstractaEInterfaz\ClaseAbstractaEInterfaz\bin\Debug\ClaseAbstractaEInterfaz.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ClaseAbstractaEInterfaz\ClaseAbstractaEInterfaz\obj\Debug\ClaseAbstractaEInterfaz.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ClaseAbstractaEInterfaz\ClaseAbstractaEInterfaz\obj\Debug\ClaseAbstractaEInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ClaseAbstractaEInterfaz\ClaseAbstractaEInterfaz\obj\Debug\ClaseAbstractaEInterfaz.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ClaseAbstractaEInterfaz\ClaseAbstractaEInterfaz\obj\Debug\ClaseAbstractaEInterfaz.pdb

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\ConcesionarioCoches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54302DCB-0A9D-4A25-945C-DD7623123074}|ConcesionarioCoches\\ConcesionarioCoches.csproj|c:\\users\\alumnos mcsd tarde\\ruben gomez lobo\\proyectos\\concesionariocoches\\concesionariocoches\\concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54302DCB-0A9D-4A25-945C-DD7623123074}|ConcesionarioCoches\\ConcesionarioCoches.csproj|solutionrelative:concesionariocoches\\concesionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54302DCB-0A9D-4A25-945C-DD7623123074}|ConcesionarioCoches\\ConcesionarioCoches.csproj|c:\\users\\alumnos mcsd tarde\\ruben gomez lobo\\proyectos\\concesionariocoches\\concesionariocoches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54302DCB-0A9D-4A25-945C-DD7623123074}|ConcesionarioCoches\\ConcesionarioCoches.csproj|solutionrelative:concesionariocoches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54302DCB-0A9D-4A25-945C-DD7623123074}|ConcesionarioCoches\\ConcesionarioCoches.csproj|c:\\users\\alumnos mcsd tarde\\ruben gomez lobo\\proyectos\\concesionariocoches\\concesionariocoches\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54302DCB-0A9D-4A25-945C-DD7623123074}|ConcesionarioCoches\\ConcesionarioCoches.csproj|solutionrelative:concesionariocoches\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Concesionario.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\ConcesionarioCoches\\ConcesionarioCoches\\Concesionario.cs",
+              "RelativeDocumentMoniker": "ConcesionarioCoches\\Concesionario.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\ConcesionarioCoches\\ConcesionarioCoches\\Concesionario.cs",
+              "RelativeToolTip": "ConcesionarioCoches\\Concesionario.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:42:24.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\ConcesionarioCoches\\ConcesionarioCoches\\Coche.cs",
+              "RelativeDocumentMoniker": "ConcesionarioCoches\\Coche.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\ConcesionarioCoches\\ConcesionarioCoches\\Coche.cs",
+              "RelativeToolTip": "ConcesionarioCoches\\Coche.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:33:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\ConcesionarioCoches\\ConcesionarioCoches\\Program.cs",
+              "RelativeDocumentMoniker": "ConcesionarioCoches\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\ConcesionarioCoches\\ConcesionarioCoches\\Program.cs",
+              "RelativeToolTip": "ConcesionarioCoches\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:32:18.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

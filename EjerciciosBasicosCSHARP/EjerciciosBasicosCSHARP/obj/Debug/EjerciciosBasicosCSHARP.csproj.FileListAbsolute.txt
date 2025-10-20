@@ -1,0 +1,8 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\EjerciciosBasicosCSHARP\EjerciciosBasicosCSHARP\bin\Debug\EjerciciosBasicosCSHARP.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\EjerciciosBasicosCSHARP\EjerciciosBasicosCSHARP\bin\Debug\EjerciciosBasicosCSHARP.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\EjerciciosBasicosCSHARP\EjerciciosBasicosCSHARP\bin\Debug\EjerciciosBasicosCSHARP.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\EjerciciosBasicosCSHARP\EjerciciosBasicosCSHARP\obj\Debug\EjerciciosBasicosCSHARP.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\EjerciciosBasicosCSHARP\EjerciciosBasicosCSHARP\obj\Debug\EjerciciosBasicosCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\EjerciciosBasicosCSHARP\EjerciciosBasicosCSHARP\obj\Debug\EjerciciosBasicosCSHARP.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\EjerciciosBasicosCSHARP\EjerciciosBasicosCSHARP\obj\Debug\EjerciciosBasicosCSHARP.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\EjerciciosBasicosCSHARP\EjerciciosBasicosCSHARP\obj\Debug\EjerciciosBasicosCSHARP.exe.config

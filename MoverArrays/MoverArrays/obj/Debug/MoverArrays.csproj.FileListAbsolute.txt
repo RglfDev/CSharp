@@ -1,0 +1,8 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\MoverArrays\MoverArrays\bin\Debug\MoverArrays.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\MoverArrays\MoverArrays\bin\Debug\MoverArrays.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\MoverArrays\MoverArrays\bin\Debug\MoverArrays.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\MoverArrays\MoverArrays\obj\Debug\MoverArrays.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\MoverArrays\MoverArrays\obj\Debug\MoverArrays.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\MoverArrays\MoverArrays\obj\Debug\MoverArrays.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\MoverArrays\MoverArrays\obj\Debug\MoverArrays.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\MoverArrays\MoverArrays\obj\Debug\MoverArrays.exe.config

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\VehiculosConHerencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3FA619-42C2-45DB-AE7A-DB97060EBB57}|VehiculosConHerencia\\VehiculosConHerencia.csproj|c:\\users\\alumnos mcsd tarde\\ruben gomez lobo\\proyectos\\vehiculosconherencia\\vehiculosconherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3FA619-42C2-45DB-AE7A-DB97060EBB57}|VehiculosConHerencia\\VehiculosConHerencia.csproj|solutionrelative:vehiculosconherencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3FA619-42C2-45DB-AE7A-DB97060EBB57}|VehiculosConHerencia\\VehiculosConHerencia.csproj|c:\\users\\alumnos mcsd tarde\\ruben gomez lobo\\proyectos\\vehiculosconherencia\\vehiculosconherencia\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3FA619-42C2-45DB-AE7A-DB97060EBB57}|VehiculosConHerencia\\VehiculosConHerencia.csproj|solutionrelative:vehiculosconherencia\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3FA619-42C2-45DB-AE7A-DB97060EBB57}|VehiculosConHerencia\\VehiculosConHerencia.csproj|c:\\users\\alumnos mcsd tarde\\ruben gomez lobo\\proyectos\\vehiculosconherencia\\vehiculosconherencia\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3FA619-42C2-45DB-AE7A-DB97060EBB57}|VehiculosConHerencia\\VehiculosConHerencia.csproj|solutionrelative:vehiculosconherencia\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\VehiculosConHerencia\\VehiculosConHerencia\\Moto.cs",
+              "RelativeDocumentMoniker": "VehiculosConHerencia\\Moto.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\VehiculosConHerencia\\VehiculosConHerencia\\Moto.cs",
+              "RelativeToolTip": "VehiculosConHerencia\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:48:25.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\VehiculosConHerencia\\VehiculosConHerencia\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "VehiculosConHerencia\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\VehiculosConHerencia\\VehiculosConHerencia\\Vehiculo.cs",
+              "RelativeToolTip": "VehiculosConHerencia\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:45:14.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\VehiculosConHerencia\\VehiculosConHerencia\\Program.cs",
+              "RelativeDocumentMoniker": "VehiculosConHerencia\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\VehiculosConHerencia\\VehiculosConHerencia\\Program.cs",
+              "RelativeToolTip": "VehiculosConHerencia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T18:44:51.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

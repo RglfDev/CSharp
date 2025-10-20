@@ -1,0 +1,7 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ConcesionarioCoches\ConcesionarioCoches\bin\Debug\ConcesionarioCoches.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ConcesionarioCoches\ConcesionarioCoches\bin\Debug\ConcesionarioCoches.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ConcesionarioCoches\ConcesionarioCoches\bin\Debug\ConcesionarioCoches.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ConcesionarioCoches\ConcesionarioCoches\obj\Debug\ConcesionarioCoches.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ConcesionarioCoches\ConcesionarioCoches\obj\Debug\ConcesionarioCoches.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ConcesionarioCoches\ConcesionarioCoches\obj\Debug\ConcesionarioCoches.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\ConcesionarioCoches\ConcesionarioCoches\obj\Debug\ConcesionarioCoches.pdb

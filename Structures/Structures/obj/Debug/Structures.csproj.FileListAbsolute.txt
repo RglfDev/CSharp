@@ -1,0 +1,7 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\Structures\Structures\bin\Debug\Structures.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\Structures\Structures\bin\Debug\Structures.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\Structures\Structures\bin\Debug\Structures.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\Structures\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\Structures\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\Structures\Structures\obj\Debug\Structures.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\Structures\Structures\obj\Debug\Structures.pdb

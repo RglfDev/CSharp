@@ -1,0 +1,8 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPParte2\CSHARPParte2\obj\Debug\CSHARPParte2.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPParte2\CSHARPParte2\obj\Debug\CSHARPParte2.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPParte2\CSHARPParte2\bin\Debug\CSHARPParte2.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPParte2\CSHARPParte2\bin\Debug\CSHARPParte2.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPParte2\CSHARPParte2\bin\Debug\CSHARPParte2.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPParte2\CSHARPParte2\obj\Debug\CSHARPParte2.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPParte2\CSHARPParte2\obj\Debug\CSHARPParte2.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\CSHARPParte2\CSHARPParte2\obj\Debug\CSHARPParte2.exe.config

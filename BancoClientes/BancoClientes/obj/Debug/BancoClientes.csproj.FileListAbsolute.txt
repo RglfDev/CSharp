@@ -1,0 +1,8 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\BancoClientes\BancoClientes\bin\Debug\BancoClientes.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\BancoClientes\BancoClientes\bin\Debug\BancoClientes.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\BancoClientes\BancoClientes\bin\Debug\BancoClientes.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\BancoClientes\BancoClientes\obj\Debug\BancoClientes.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\BancoClientes\BancoClientes\obj\Debug\BancoClientes.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\BancoClientes\BancoClientes\obj\Debug\BancoClientes.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\BancoClientes\BancoClientes\obj\Debug\BancoClientes.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\BancoClientes\BancoClientes\obj\Debug\BancoClientes.exe.config

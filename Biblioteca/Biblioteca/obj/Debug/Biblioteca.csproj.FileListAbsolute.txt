@@ -1,0 +1,7 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb

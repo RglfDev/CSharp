@@ -1,0 +1,8 @@
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\cSharp\cSharp\bin\Debug\cSharp.exe.config
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\cSharp\cSharp\bin\Debug\cSharp.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\cSharp\cSharp\bin\Debug\cSharp.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\cSharp\cSharp\obj\Debug\cSharp.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\cSharp\cSharp\obj\Debug\cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\cSharp\cSharp\obj\Debug\cSharp.exe
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\cSharp\cSharp\obj\Debug\cSharp.pdb
+C:\Users\Alumnos MCSD Tarde\Ruben Gomez Lobo\Proyectos\cSharp\cSharp\obj\Debug\cSharp.exe.config

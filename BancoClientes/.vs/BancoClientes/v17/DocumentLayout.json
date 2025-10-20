@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\BancoClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D231-E924-4A3C-A5A7-6E93D114657A}|BancoClientes\\BancoClientes.csproj|c:\\users\\alumnos mcsd tarde\\ruben gomez lobo\\proyectos\\bancoclientes\\bancoclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D231-E924-4A3C-A5A7-6E93D114657A}|BancoClientes\\BancoClientes.csproj|solutionrelative:bancoclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D231-E924-4A3C-A5A7-6E93D114657A}|BancoClientes\\BancoClientes.csproj|c:\\users\\alumnos mcsd tarde\\ruben gomez lobo\\proyectos\\bancoclientes\\bancoclientes\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D231-E924-4A3C-A5A7-6E93D114657A}|BancoClientes\\BancoClientes.csproj|solutionrelative:bancoclientes\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4494D231-E924-4A3C-A5A7-6E93D114657A}|BancoClientes\\BancoClientes.csproj|c:\\users\\alumnos mcsd tarde\\ruben gomez lobo\\proyectos\\bancoclientes\\bancoclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4494D231-E924-4A3C-A5A7-6E93D114657A}|BancoClientes\\BancoClientes.csproj|solutionrelative:bancoclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\BancoClientes\\BancoClientes\\Cliente.cs",
+              "RelativeDocumentMoniker": "BancoClientes\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\BancoClientes\\BancoClientes\\Cliente.cs",
+              "RelativeToolTip": "BancoClientes\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:43:40.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\BancoClientes\\BancoClientes\\Banco.cs",
+              "RelativeDocumentMoniker": "BancoClientes\\Banco.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\BancoClientes\\BancoClientes\\Banco.cs",
+              "RelativeToolTip": "BancoClientes\\Banco.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:41:30.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\BancoClientes\\BancoClientes\\Program.cs",
+              "RelativeDocumentMoniker": "BancoClientes\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Ruben Gomez Lobo\\Proyectos\\BancoClientes\\BancoClientes\\Program.cs",
+              "RelativeToolTip": "BancoClientes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:39:40.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
