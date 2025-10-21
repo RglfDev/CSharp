@@ -1,0 +1,8 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Veterinaria\Veterinaria\obj\Debug\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe.config

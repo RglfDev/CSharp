@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\Ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65BBC8D9-0986-4959-8C55-B39BAC4FB243}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\alumnos mcsd tarde\\desktop\\csharp\\ejercicio4\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BBC8D9-0986-4959-8C55-B39BAC4FB243}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\Ejercicio4\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\Ejercicio4\\Ejercicio4\\Program.cs*",
+              "RelativeToolTip": "Ejercicio4\\Program.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwDsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:57:19.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
