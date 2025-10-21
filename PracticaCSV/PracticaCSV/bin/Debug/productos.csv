@@ -1,0 +1,9 @@
+﻿Id,Nombre,Categoria,Precio,Stock
+1,Teclado Mecánico,Electrónica,75.50,10
+2,Ratón Inalámbrico,Electrónica,35.20,25
+3,Camiseta Algodón,Ropa,12.99,50
+4,Zapatos Running,Ropa,59.90,20
+5,Cafetera 12 Tazas,Hogar,89.00,5
+6,Set Ollas,Hogar,120.50,3
+7,Libro C# Avanzado,Libros,45.00,15
+8,Libro JS Moderno,Libros,39.99,20

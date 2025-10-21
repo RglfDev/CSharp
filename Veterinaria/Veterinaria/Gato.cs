@@ -23,10 +23,8 @@ namespace Veterinaria
         public Gato(string nombre, int edad, double peso, TipoPersonalidad personalidad)
             : base(nombre, edad, peso)
         {
-            
             Personalidad = personalidad;
             Localizacion = GetLocalizacion();
-
         }
 
         private string GetLocalizacion()
@@ -57,7 +55,6 @@ namespace Veterinaria
             {
                 base.MostrarInfo();
             }
-
         }
 
         protected override double CalcularRacion()

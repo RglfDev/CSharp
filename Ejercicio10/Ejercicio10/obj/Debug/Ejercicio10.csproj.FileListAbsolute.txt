@@ -1,0 +1,7 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio10\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio10\Ejercicio10\obj\Debug\Ejercicio10.pdb

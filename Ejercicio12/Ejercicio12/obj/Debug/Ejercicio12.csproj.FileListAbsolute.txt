@@ -1,0 +1,7 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb

@@ -1,0 +1,8 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCSV\FicherosCSV\bin\Debug\FicherosCSV.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCSV\FicherosCSV\bin\Debug\FicherosCSV.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCSV\FicherosCSV\bin\Debug\FicherosCSV.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCSV\FicherosCSV\obj\Debug\FicherosCSV.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCSV\FicherosCSV\obj\Debug\FicherosCSV.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCSV\FicherosCSV\obj\Debug\FicherosCSV.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCSV\FicherosCSV\obj\Debug\FicherosCSV.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCSV\FicherosCSV\obj\Debug\FicherosCSV.exe.config

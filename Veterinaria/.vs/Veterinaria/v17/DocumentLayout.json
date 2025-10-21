@@ -3,23 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\veterinaria\\veterinaria\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\veterinaria\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\veterinaria\\veterinaria\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\veterinaria\\veterinaria\\protectora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\protectora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\veterinaria\\veterinaria\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\veterinaria\\veterinaria\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\veterinaria\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\gato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Gato.cs",
-              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Gato.cs",
-              "RelativeDocumentMoniker": "Veterinaria\\Gato.cs",
-              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Gato.cs",
-              "RelativeToolTip": "Veterinaria\\Gato.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T11:31:44.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ave.cs",
-              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Ave.cs",
-              "RelativeDocumentMoniker": "Veterinaria\\Ave.cs",
-              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Ave.cs",
-              "RelativeToolTip": "Veterinaria\\Ave.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Perro.cs",
+              "RelativeDocumentMoniker": "Veterinaria\\Perro.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Perro.cs",
+              "RelativeToolTip": "Veterinaria\\Perro.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T09:47:35.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Protectora.cs",
-              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Protectora.cs",
-              "RelativeDocumentMoniker": "Veterinaria\\Protectora.cs",
-              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Protectora.cs",
-              "RelativeToolTip": "Veterinaria\\Protectora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T08:09:38.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mascota.cs",
-              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Mascota.cs",
-              "RelativeDocumentMoniker": "Veterinaria\\Mascota.cs",
-              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Mascota.cs",
-              "RelativeToolTip": "Veterinaria\\Mascota.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAAwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T22:05:35.893Z",
+              "WhenOpened": "2025-10-21T14:57:42.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Program.cs",
-              "RelativeDocumentMoniker": "Veterinaria\\Program.cs",
-              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Program.cs",
-              "RelativeToolTip": "Veterinaria\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwDkAAAAVAAAAAAAAAA==",
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Mascota.cs",
+              "RelativeDocumentMoniker": "Veterinaria\\Mascota.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Mascota.cs",
+              "RelativeToolTip": "Veterinaria\\Mascota.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA6wEUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T20:39:40.17Z",
+              "WhenOpened": "2025-10-21T14:57:05.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gato.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Gato.cs",
+              "RelativeDocumentMoniker": "Veterinaria\\Gato.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Gato.cs",
+              "RelativeToolTip": "Veterinaria\\Gato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:31:44.13Z",
               "EditorCaption": ""
             }
           ]

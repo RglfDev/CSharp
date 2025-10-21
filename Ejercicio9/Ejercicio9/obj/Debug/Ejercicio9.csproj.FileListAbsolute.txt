@@ -1,0 +1,7 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.pdb

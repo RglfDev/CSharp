@@ -1,0 +1,8 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCsharp\FicherosCsharp\bin\Debug\FicherosCsharp.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCsharp\FicherosCsharp\bin\Debug\FicherosCsharp.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCsharp\FicherosCsharp\bin\Debug\FicherosCsharp.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCsharp\FicherosCsharp\obj\Debug\FicherosCsharp.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCsharp\FicherosCsharp\obj\Debug\FicherosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCsharp\FicherosCsharp\obj\Debug\FicherosCsharp.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCsharp\FicherosCsharp\obj\Debug\FicherosCsharp.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\FicherosCsharp\FicherosCsharp\obj\Debug\FicherosCsharp.exe.config

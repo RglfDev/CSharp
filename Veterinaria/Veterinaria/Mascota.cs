@@ -28,9 +28,9 @@ namespace Veterinaria
 
         public void Vacunar(string stringVacuna)
         {
-
             string vacuna = stringVacuna.ToLower().Trim();
             bool vacunado = Vacunas.Contains(vacuna);
+
             if (vacunado)
             {
                 Console.WriteLine($"El {Tipo} {Nombre} ya ha sido vacunado de {vacuna}");
@@ -40,6 +40,7 @@ namespace Veterinaria
                 Console.WriteLine($"Al {Tipo} {Nombre} se le ha vacunado de {vacuna}");
                 Vacunas.Add(vacuna);
                 bool buscarEnfermedad = Enfermedades.Contains(vacuna);
+
                 if (buscarEnfermedad) { 
                 Enfermedades.Remove(vacuna);
                     Console.WriteLine($"{Nombre} ya no está enfermo de {vacuna}");
@@ -49,7 +50,6 @@ namespace Veterinaria
 
         public virtual void DetectarEnfermedad(String enf)
         {
-
             string name = enf.ToLower().Trim();
             bool esInmune = Vacunas.Contains(name);
             if (esInmune)
@@ -61,7 +61,6 @@ namespace Veterinaria
                 Console.WriteLine($"Al {Tipo} {Nombre} se le ha detectado la enfermedad de {name}");
                 Enfermedades.Add(name);
             }
-
         }
 
         public virtual void MostrarInfo()
@@ -96,7 +95,6 @@ namespace Veterinaria
             Console.WriteLine("\t- Listado de vacunas: ");
             if (Vacunas.Count > 0)
             {
-                
                 foreach (string vac in Vacunas)
                 {
                     Console.WriteLine($"\t\t{vac}");

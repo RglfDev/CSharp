@@ -1,0 +1,7 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
