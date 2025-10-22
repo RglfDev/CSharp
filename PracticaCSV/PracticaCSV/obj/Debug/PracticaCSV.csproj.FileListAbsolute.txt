@@ -6,3 +6,11 @@ C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\PracticaCSV\PracticaCSV\obj
 C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\PracticaCSV\PracticaCSV\obj\Debug\PracticaCSV.exe
 C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\PracticaCSV\PracticaCSV\obj\Debug\PracticaCSV.pdb
 C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\PracticaCSV\PracticaCSV\obj\Debug\PracticaCSV.exe.config
+C:\Users\Alumnos MCSD Tarde\Desktop\CSharp\PracticaCSV\PracticaCSV\bin\Debug\PracticaCSV.exe.config
+C:\Users\Alumnos MCSD Tarde\Desktop\CSharp\PracticaCSV\PracticaCSV\bin\Debug\PracticaCSV.exe
+C:\Users\Alumnos MCSD Tarde\Desktop\CSharp\PracticaCSV\PracticaCSV\bin\Debug\PracticaCSV.pdb
+C:\Users\Alumnos MCSD Tarde\Desktop\CSharp\PracticaCSV\PracticaCSV\obj\Debug\PracticaCSV.csproj.AssemblyReference.cache
+C:\Users\Alumnos MCSD Tarde\Desktop\CSharp\PracticaCSV\PracticaCSV\obj\Debug\PracticaCSV.exe.config
+C:\Users\Alumnos MCSD Tarde\Desktop\CSharp\PracticaCSV\PracticaCSV\obj\Debug\PracticaCSV.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos MCSD Tarde\Desktop\CSharp\PracticaCSV\PracticaCSV\obj\Debug\PracticaCSV.exe
+C:\Users\Alumnos MCSD Tarde\Desktop\CSharp\PracticaCSV\PracticaCSV\obj\Debug\PracticaCSV.pdb

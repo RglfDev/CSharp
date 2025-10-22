@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\PracticaCSV\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\PracticaCSV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\practicacsv\\practicacsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\PracticaCSV\\practicacsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|solutionrelative:practicacsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\PracticaCSV\\practicacsv\\bin\\debug\\resultado.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|solutionrelative:practicacsv\\bin\\debug\\resultado.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\PracticaCSV\\practicacsv\\bin\\debug\\productos.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|solutionrelative:practicacsv\\bin\\debug\\productos.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\PracticaCSV\\practicacsv\\bin\\debug\\productos.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|solutionrelative:practicacsv\\bin\\debug\\productos.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|c:\\users\\alumnos mcsd tarde\\desktop\\csharp\\practicacsv\\practicacsv\\bin\\debug\\resultado.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D96EE88-4AD1-4EED-8FA5-E3E6C8C599FA}|PracticaCSV\\PracticaCSV.csproj|solutionrelative:practicacsv\\bin\\debug\\resultado.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Resultado.txt",
-              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\PracticaCSV\\PracticaCSV\\bin\\Debug\\Resultado.txt",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\PracticaCSV\\PracticaCSV\\bin\\Debug\\Resultado.txt",
               "RelativeDocumentMoniker": "PracticaCSV\\bin\\Debug\\Resultado.txt",
-              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\PracticaCSV\\PracticaCSV\\bin\\Debug\\Resultado.txt",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\PracticaCSV\\PracticaCSV\\bin\\Debug\\Resultado.txt",
               "RelativeToolTip": "PracticaCSV\\bin\\Debug\\Resultado.txt",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-21T19:19:55.781Z"
+              "WhenOpened": "2025-10-21T19:19:55.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "productos.csv",
-              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\PracticaCSV\\PracticaCSV\\bin\\Debug\\productos.csv",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\PracticaCSV\\PracticaCSV\\bin\\Debug\\productos.csv",
               "RelativeDocumentMoniker": "PracticaCSV\\bin\\Debug\\productos.csv",
-              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\PracticaCSV\\PracticaCSV\\bin\\Debug\\productos.csv",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\PracticaCSV\\PracticaCSV\\bin\\Debug\\productos.csv",
               "RelativeToolTip": "PracticaCSV\\bin\\Debug\\productos.csv",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-10-21T17:45:29.654Z"
+              "WhenOpened": "2025-10-21T17:45:29.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\PracticaCSV\\PracticaCSV\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\PracticaCSV\\PracticaCSV\\Program.cs",
               "RelativeDocumentMoniker": "PracticaCSV\\Program.cs",
-              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\PracticaCSV\\PracticaCSV\\Program.cs",
-              "RelativeToolTip": "PracticaCSV\\Program.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAuwGoAAACYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Desktop\\CSharp\\PracticaCSV\\PracticaCSV\\Program.cs*",
+              "RelativeToolTip": "PracticaCSV\\Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T17:44:49.239Z",
               "EditorCaption": ""
