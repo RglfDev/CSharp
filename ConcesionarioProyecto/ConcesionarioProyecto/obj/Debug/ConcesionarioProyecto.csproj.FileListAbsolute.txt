@@ -6,3 +6,11 @@ C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\ConcesionarioProyecto\Co
 C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\ConcesionarioProyecto\ConcesionarioProyecto\obj\Debug\ConcesionarioProyecto.exe
 C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\ConcesionarioProyecto\ConcesionarioProyecto\obj\Debug\ConcesionarioProyecto.pdb
 C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\Proyectos\ConcesionarioProyecto\ConcesionarioProyecto\obj\Debug\ConcesionarioProyecto.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\ConcesionarioProyecto\ConcesionarioProyecto\bin\Debug\ConcesionarioProyecto.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\ConcesionarioProyecto\ConcesionarioProyecto\bin\Debug\ConcesionarioProyecto.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\ConcesionarioProyecto\ConcesionarioProyecto\bin\Debug\ConcesionarioProyecto.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\ConcesionarioProyecto\ConcesionarioProyecto\obj\Debug\ConcesionarioProyecto.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\ConcesionarioProyecto\ConcesionarioProyecto\obj\Debug\ConcesionarioProyecto.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\ConcesionarioProyecto\ConcesionarioProyecto\obj\Debug\ConcesionarioProyecto.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\ConcesionarioProyecto\ConcesionarioProyecto\obj\Debug\ConcesionarioProyecto.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\ConcesionarioProyecto\ConcesionarioProyecto\obj\Debug\ConcesionarioProyecto.pdb

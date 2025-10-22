@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\Proyectos\\ConcesionarioProyecto\\",
+  "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\ConcesionarioProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{290B259A-1E6E-491E-9565-7EF9BE08FC09}|ConcesionarioProyecto\\ConcesionarioProyecto.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\proyectos\\concesionarioproyecto\\concesionarioproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{290B259A-1E6E-491E-9565-7EF9BE08FC09}|ConcesionarioProyecto\\ConcesionarioProyecto.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\concesionarioproyecto\\concesionarioproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{290B259A-1E6E-491E-9565-7EF9BE08FC09}|ConcesionarioProyecto\\ConcesionarioProyecto.csproj|solutionrelative:concesionarioproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\Proyectos\\ConcesionarioProyecto\\ConcesionarioProyecto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\ConcesionarioProyecto\\ConcesionarioProyecto\\Program.cs",
               "RelativeDocumentMoniker": "ConcesionarioProyecto\\Program.cs",
-              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\Proyectos\\ConcesionarioProyecto\\ConcesionarioProyecto\\Program.cs*",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\ConcesionarioProyecto\\ConcesionarioProyecto\\Program.cs*",
               "RelativeToolTip": "ConcesionarioProyecto\\Program.cs*",
-              "ViewState": "AgIAAGEBAAAAAAAAAAAowHYBAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T10:23:29.188Z",
               "EditorCaption": ""

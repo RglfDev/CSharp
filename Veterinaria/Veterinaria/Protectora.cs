@@ -7,10 +7,19 @@ using System.Threading.Tasks;
 
 namespace Veterinaria
 {
+    //Clase protectora para guardar en un listado los animales creados y llamar a los métodos correspondientes que necesite el programa.
     internal class Protectora
     {
+        //Atributo tipo Lista para guardar las mascotas
         public List<Mascota> listaMascotas = new List<Mascota>();
 
+        /*Metodo para introducir una mascota en la lista de la protectora:
+         * Primero el usuario elige el tipo de mascota a introducir.
+         * Luego se recogen los atributos comunes de todas las clases para ahorrar código.
+         * Dependiendo del tipo de animal, se deriva al usuario a recoger los atributos necesarios de cada clase
+         * Por ultimo, se guarda el nuevo animal en la lista de mascotas.
+         * Si los valores introducidos no son correctos, se asignan vlaores por defecto para no romper el programa.
+         */
         public void AñadirMascota()
         {
             Console.WriteLine("Elige un tipo de mascota:\n\t1.-Perro.\n\t2.-Gato.\n\t3.-Ave.");
@@ -89,6 +98,7 @@ namespace Veterinaria
             }
         }
 
+        //Método para recorrer la lista y mostrar el listado de animales guardados en ella.
         public void ListarAnimales()
         {
             for (int i = 0; i < listaMascotas.Count; i++)
@@ -98,6 +108,7 @@ namespace Veterinaria
             }
         }
 
+        //Metodo que muestra la información detallada de un animal de la lista por índice.
         public void AnimalDetallado()
         {
             ListarAnimales();
@@ -122,6 +133,7 @@ namespace Veterinaria
             
         }
 
+        //Metodo que asigna una enfermedad a un animal y la guarda en la lista de enfermedades de ese animal.
         public void DetectarEnfermedad()
         {
             Console.Write("Escoge un animal por su número para diagnosticar: ");
@@ -150,6 +162,9 @@ namespace Veterinaria
             }
         }
 
+        /*Metodo para "vacunar" a un animal, el cual llama al método vacunar para añadirla al listado si aun no está vacunado
+        *y quitar la enfermedad correspondiente si la tuviese.
+        **/
         public void CurarEnfermedad()
         {
             Console.Write("Escoge un animal por su número para curar: ");

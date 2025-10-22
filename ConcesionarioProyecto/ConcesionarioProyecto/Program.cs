@@ -7,15 +7,21 @@ using System.Threading.Tasks;
 
 namespace GestorVehículos
 {
-
+    /*Concesionario de Vehículos:
+     * Este programa se ha desarrollado implementando una lista en la que se van guardando los vehiculos 
+     * directamente desde la clase Main. Ademas, se ha hecho de tal manera que el propio constructor
+     * lanza un metodo que va pidiendo los datos al usuario de los nuevos vehiculos y se van asignando
+     * directamente a los atributos de cada objeto.*/
 }
 internal class Program
 {
-
+    //Interfaz de mantenimiento
     public interface IMantenimiento
     {
         void RealizarMantenimiento();
     }
+
+    //Clase vehiculo que implementa la interfaz de mantenimiento.
     public abstract class Vehiculo: IMantenimiento
     {
         protected string Marca { get; set; }
@@ -24,19 +30,31 @@ internal class Program
         protected double Precio { get; set; }
         protected double PrecioBase { get; set; }
 
+        //Constructor que llama al método DatosUsuario para pedir los datos por consola
         protected Vehiculo()
         {
             DatosUsuario();
 
         }
 
+        //Metodo para recoger los datos del vehiculo por consola. Si no se ingresan datos o no son correctos, se asignan por defecto.
         protected virtual void DatosUsuario()
         {
             Console.Write("Ingresa la marca: ");
             Marca = Console.ReadLine();
+            if (Marca == "" || Marca == null)
+            {
+                Console.WriteLine("La marca está vacía. Pr defecto se asignará Desconocido.");
+                Marca = "Desconocido";
+            }
 
             Console.Write("Ingresa el modelo: ");
             Modelo = Console.ReadLine();
+            if (Modelo == "" || Modelo == null)
+            {
+                Console.WriteLine("El modelo está vacío. Pr defecto se asignará Desconocido.");
+                Modelo = "Desconocido";
+            }
 
             Console.Write("Ingresa el año: ");
             if (int.TryParse(Console.ReadLine(), out int año))
@@ -47,7 +65,7 @@ internal class Program
             {
                 Año = 2025;
                 Console.WriteLine("Valor no válido. Se le asignará por defecto AÑO: 2025....");
-                return;
+                
             }
 
             Console.Write("Ingresa el precio: ");
@@ -59,16 +77,19 @@ internal class Program
             {
                 PrecioBase = 0.0;
                 Console.WriteLine("Valor no válido. Se le asignará por defecto valor 0$");
-                return;
+                
             }
 
 
         }
+
+        //Método genérico para mostrar información de los vehículos.
         public void MostrarInfo()
         {
             Console.WriteLine($"{Marca} {Modelo}: Año {Año}");
         }
 
+        //Método sobrecargado que, dependiendo de un booleano, mostraraá en las clases hijas una u otra información.
         public virtual void MostrarInfo(bool detallado)
         {
             if (detallado)
@@ -78,24 +99,36 @@ internal class Program
             else { MostrarInfo(); }
         }
 
+        //Método abstracto para calcular el precio en las clases hijas, el cual lo hace a traves del precio base ingresado por consola.
         public abstract double CalcularPrecio(double precioBase);
 
+        //Metodo abstracto de la interfáz de mantenimiento.
         public abstract void RealizarMantenimiento();
 
     }
+
+    //Clase coche que hereda propiedades y accesos de Vehículo.
     public class Coche : Vehiculo
     {
         public int Puertas { get; set; }
 
+        /*En el constructor no hace falta llamar al constructor si no tiene parametros ya que lo hereda 
+         * automáticamente de la clase padre. (antes lo tenia puesto con :base(sin parametros), pero
+         * quedaba bastante chapucero y así queda mas estético, aunque ambas consiguen el mismo
+         * resultado)
+         * Calculamos el precio desde el constructor con el método correspondiente.*/
         public Coche()
         {
+            //Esto se ejecuta despues del constructor Padre.
             Precio = CalcularPrecio(PrecioBase);
         }
 
+        /*Heredamos con "base." el método que pide los datos al usuario por consola de la clase padre y
+         * le añadimos las peticiones por consola necesarias para terminar de construir el objeto Coche. */
         protected override void DatosUsuario()
         {
             base.DatosUsuario();
-            Console.Write("Ingresa el nº de puertas: ");
+            Console.Write("Ingresa el nº de puertas (min 3 - max 8): ");
             if (int.TryParse(Console.ReadLine(), out int puertas) && puertas >= 3 && puertas <= 8)
                 Puertas = puertas;
             else
@@ -106,6 +139,8 @@ internal class Program
 
         }
 
+        /*Sobreescritura del método MostrarInfo, el cual si recibe un parámetro mostrará la info detallada del coche,
+         * y si no, llama directamente al metodo alojado en la clase padre con .base*/
         public override void MostrarInfo(bool detallado)
         {
             if (detallado)
@@ -118,28 +153,31 @@ internal class Program
             }
         }
 
+        //Metodo sobreescrito sencillo para calcular el precio total a partir del base mas el 0.21% de IVA.
         public override double CalcularPrecio(double precioBase)
         {
             return precioBase * 1.21;
         }
 
+        //Metodo personalizado de la clase padre (procedente de la interfaz) para mostrar el mantenimiento necesario.
         public override void RealizarMantenimiento()
         {
-
             Console.WriteLine($"Para realizar el mantenimiento del {Marca} {Modelo} sería necesario revisar las ruedas, aceite y filtros");
         }
     }
 
+    //Clase coche que hereda propiedades y accesos de Vehículo.
     public class Moto : Vehiculo
     {
         public bool Casco { get; set; }
 
         public Moto()
         {
-
+            //Esto se ejecuta despues del constructor padre
             Precio = CalcularPrecio(PrecioBase);
         }
 
+        //Metodo sobreescrito para pedir los datos correspondientes al usuario (implementa el de la clase padre + atributos nuevos.
         protected override void DatosUsuario()
         {
             base.DatosUsuario();
@@ -158,6 +196,7 @@ internal class Program
 
         }
 
+        //Explicacion en la clase Coche
         public override void MostrarInfo(bool detallado)
         {
             if (detallado)
@@ -171,6 +210,7 @@ internal class Program
             }
         }
 
+        //Metodo para caluclar el precio aplicando un descuento y sumando el precio del casco.
         public override double CalcularPrecio(double precioBase)
         {
             if (Casco)
@@ -183,12 +223,14 @@ internal class Program
             }
         }
 
+        //Metodo para realizar el mantenimiento de la moto.
         public override void RealizarMantenimiento()
         {
             Console.WriteLine($"Para realizar el mantenimiento de la {Marca} {Modelo} sería necesario purgar frenos, aceite y cambio de suspensión.");
         }
     }
 
+    //Clase Camion que hereda de la clase Vehiculo.
     public class Camion : Vehiculo
     {
 
@@ -196,15 +238,17 @@ internal class Program
 
         public Camion()
         {
+            //Primero se lanza el constructor de la clase padre.
+            //Despues asigna el precio total a traves del metodo correspondiente al atributo.
             Precio = CalcularPrecio(PrecioBase);
         }
 
-
+        //Metodo para pedir datos al usuario importando el metodo de la clase padre.
         protected override void DatosUsuario()
         {
             base.DatosUsuario();
 
-            Console.Write("Elige una opción:\n\t1.Menos de 1000 Kg.\n\t2.Más de 1000 Kg.\n\tRespuesta: ");
+            Console.Write("Elige una opción:\n\t1.Menos de 1000 Kg.\n\t2.Más de 1000 Kg.\nRespuesta: ");
             if (int.TryParse(Console.ReadLine(), out int opcion) && (opcion == 1 || opcion == 2))
             {
                 CapacidadCarga = (opcion == 2) ? true : false;
@@ -223,7 +267,7 @@ internal class Program
             if (detallado)
             {
                 Console.WriteLine($"Camión: {Marca} {Modelo},\n\t Año: {Año},\n\t Capacidad de carga: " +
-                    $"{(CapacidadCarga ? "Mas de 1000 Kg" : "Menos de 1000 Kg")},\n\t Precio Base: ${PrecioBase:F2},\n\t Precio (0.21 IVA): ${Precio}");
+                    $"{(CapacidadCarga ? "Mas de 1000 Kg" : "Menos de 1000 Kg")},\n\t Precio Base: ${PrecioBase:F2},\n\t Precio (12% IVA): ${Precio}");
             }
             else
             {
@@ -231,6 +275,7 @@ internal class Program
             }
         }
 
+        //Devuelve el precio total al atributo metiendole un 12% de IVA.
         public override double CalcularPrecio(double precioBase)
         {
             if (CapacidadCarga)
@@ -244,14 +289,17 @@ internal class Program
 
         }
 
+        //Muestra por consola el mantenimiento necesario del camión.
         public override void RealizarMantenimiento()
         {
             Console.WriteLine($"Para realizar el mantenimiento del {Marca} {Modelo} sería necesario revisar la cabina, modulo de carga y la suspensión neumática");
         }
     }
 
+    //Clase principal que lanza el programa
     static void Main(string[] args)
     {
+        //Lista donde guardaremos todos los vehiculos
         List<Vehiculo> listaVehiculos = new List<Vehiculo>();
 
         int opcion = 0;
@@ -259,6 +307,7 @@ internal class Program
         do
         {
             Console.WriteLine("\n--- MENÚ VEHÍCULOS ---");
+            Console.WriteLine("----------------------------------------");
             Console.WriteLine("1. Agregar Coche");
             Console.WriteLine("2. Agregar Moto");
             Console.WriteLine("3. Agregar Camión");
@@ -267,10 +316,12 @@ internal class Program
             Console.WriteLine("6. Mostrar mantenimiento de un vehículo");
             Console.WriteLine("7. Eliminar vehículo por posición");
             Console.WriteLine("8. Salir");
+            Console.WriteLine("----------------------------------------");
             Console.Write("Selecciona una opción: ");
 
             opcion = Convert.ToInt32(Console.ReadLine());
-
+            /*Este menú va agregando a la lista, quitando de la lista o mostrando información de los vehiculos 
+             * seleccionados dependiendo de la opcion escogida*/
             switch (opcion)
             {
                 case 1:
@@ -371,9 +422,6 @@ internal class Program
                     Console.WriteLine("Saliendo...");
                     break;
                         }
-   
         } while (opcion != 8);
-
-
     }
 }

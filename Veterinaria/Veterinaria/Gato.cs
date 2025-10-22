@@ -7,19 +7,21 @@ using System.Threading.Tasks;
 
 namespace Veterinaria
 {
+    //Enum para definir la personalidad del gato.
     public enum TipoPersonalidad
     {
         Arisco,
         Salvaje,
         Cariñoso,
     }
+    //Clase gato que hereda de Mascota.
     public class Gato : Mascota
     {
         public string Localizacion { get; set; }
 
         public TipoPersonalidad Personalidad { get; set; }
 
-
+        //Constructor que toma los atributos necesarios de la clase padre.
         public Gato(string nombre, int edad, double peso, TipoPersonalidad personalidad)
             : base(nombre, edad, peso)
         {
@@ -27,6 +29,10 @@ namespace Veterinaria
             Localizacion = GetLocalizacion();
         }
 
+        /* Este método da a elegir entre dos opciones para definir de donde procede el gato:
+         * -Se puede elegir entre dos opciones.
+         * -Si el valor es incorrecto, se asiga una por defecto.
+         * -Se le pasa directamente el valor de este método al constructor.*/
         private string GetLocalizacion()
         {
             int option = 0;
@@ -42,6 +48,8 @@ namespace Veterinaria
                 return "Doméstico";
             }
         }
+
+        //Metodo MostrarInfo heredado de la clase padre con sobrecarga personalizado (Expilación en clase Perro)
         public override void MostrarInfo(bool info)
         {
             if (info)
@@ -57,6 +65,7 @@ namespace Veterinaria
             }
         }
 
+        //Método heredado personalizado para calcular la ración diaria
         protected override double CalcularRacion()
         {
             if (Peso < 10)
