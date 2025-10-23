@@ -1,0 +1,39 @@
+-----Lista de productos-----
+ID: 1 - Nombre: Teclado Mecánico - Categoria: Electrónica - Precio: 75,5 - Stock: 10
+ID: 2 - Nombre: Ratón Inalámbrico - Categoria: Electrónica - Precio: 35,2 - Stock: 25
+ID: 3 - Nombre: Camiseta Algodón - Categoria: Ropa - Precio: 12,99 - Stock: 50
+ID: 4 - Nombre: Zapatos Running - Categoria: Ropa - Precio: 59,9 - Stock: 20
+ID: 5 - Nombre: Cafetera 12 Tazas - Categoria: Hogar - Precio: 89 - Stock: 5
+ID: 6 - Nombre: Set Ollas - Categoria: Hogar - Precio: 120,5 - Stock: 3
+ID: 7 - Nombre: Libro C# Avanzado - Categoria: Libros - Precio: 45 - Stock: 15
+ID: 8 - Nombre: Libro JS Moderno - Categoria: Libros - Precio: 39,99 - Stock: 20
+
+----Productos por categoria-----
+Categoria Electrónica
+--------------------------------
+ID: 1 - Nombre: Teclado Mecánico - Categoria: Electrónica - Precio: 75,5 - Stock: 10
+ID: 2 - Nombre: Ratón Inalámbrico - Categoria: Electrónica - Precio: 35,2 - Stock: 25
+Precio total de Electrónica = 1635,00
+El mas caro es 75,5 y el mas barato es 35,2
+
+Categoria Ropa
+--------------------------------
+ID: 3 - Nombre: Camiseta Algodón - Categoria: Ropa - Precio: 12,99 - Stock: 50
+ID: 4 - Nombre: Zapatos Running - Categoria: Ropa - Precio: 59,9 - Stock: 20
+Precio total de Ropa = 1847,50
+El mas caro es 59,9 y el mas barato es 12,99
+
+Categoria Hogar
+--------------------------------
+ID: 5 - Nombre: Cafetera 12 Tazas - Categoria: Hogar - Precio: 89 - Stock: 5
+ID: 6 - Nombre: Set Ollas - Categoria: Hogar - Precio: 120,5 - Stock: 3
+Precio total de Hogar = 806,50
+El mas caro es 120,5 y el mas barato es 89
+
+Categoria Libros
+--------------------------------
+ID: 7 - Nombre: Libro C# Avanzado - Categoria: Libros - Precio: 45 - Stock: 15
+ID: 8 - Nombre: Libro JS Moderno - Categoria: Libros - Precio: 39,99 - Stock: 20
+Precio total de Libros = 1474,80
+El mas caro es 45 y el mas barato es 39,99
+

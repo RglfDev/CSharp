@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+//usar using System.Globalization para normaalizar cifras en vez de crear idiomas
 
 /**
  * Pasos a seguir: 
@@ -38,7 +39,7 @@ namespace PracticaCSV
         {
             //Rutas del CSV y del fichero de Resultados
             string rutaCSV = "productos.csv";
-            string nombreArchivo = "Resultado.txt";
+            string nombreArchivo = "Resultado.csv";
             
 
             //Creación de la lista Productos para almacenar los objetos Producto
