@@ -342,7 +342,7 @@ internal class Program
                 case 4:
                     if (listaVehiculos.Count == 0)
                     {
-                        Console.WriteLine("No hay vehículos en la lista.");
+                        Console.WriteLine("No hay vehículos en la lista aún.");
                     }
                     else
                     {
@@ -356,23 +356,32 @@ internal class Program
                     break;
 
                 case 5:
-                    Console.Write("Ingresa el número del vehículo: ");
-                    if (int.TryParse(Console.ReadLine(), out int seleccion))
+                    if (listaVehiculos.Count == 0)
                     {
-                        seleccion -= 1;
-
-                        if (seleccion < 0 || seleccion > listaVehiculos.Count())
-                        {
-                            Console.Write("No hay ningún vehículo en esa posición");
-                        }
-                        else
-                        {
-                            listaVehiculos[seleccion].MostrarInfo(true);
-                        }
+                        Console.WriteLine("No hay vehículos en la lista aún");
+                        
                     }
                     else
                     {
-                        Console.WriteLine("Error, introduce un dato válido");
+
+                            Console.Write("Ingresa el número del vehículo: ");
+                        if (int.TryParse(Console.ReadLine(), out int seleccion))
+                        {
+                            seleccion -= 1;
+
+                            if (seleccion < 0 || seleccion > listaVehiculos.Count())
+                            {
+                                Console.Write("No hay ningún vehículo en esa posición");
+                            }
+                            else
+                            {
+                                listaVehiculos[seleccion].MostrarInfo(true);
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("Error, introduce un dato válido");
+                        }
                     }
                     break;
 

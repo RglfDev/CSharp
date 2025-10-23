@@ -55,7 +55,7 @@ namespace Veterinaria
             if (info)
             {
                 Console.WriteLine($"{Tipo}: {Nombre}:\n\t- Localizacion: {Localizacion}\n\t- Edad: {Edad}" +
-                    $"\n\t- Peso: {Peso} Kg,\n\t- Alimentación diaria: {CalcularRacion()} gs");
+                    $"\n\t- Peso: {Peso:F2} Kg,\n\t- Alimentación diaria: {CalcularRacion()} gs");
                 this.ListarEnfermedades();
                 this.ListarVacunas();
             }

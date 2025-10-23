@@ -33,7 +33,13 @@ namespace Veterinaria
             {
 
                 Console.Write("Introduce su nombre: ");
-                string nombre = Console.ReadLine();
+                string nombre = Console.ReadLine().Trim();
+
+                if (nombre == "")
+                {
+                    Console.WriteLine("No se ha introducido un nombre. Volviendo al menú principal...");
+                    return;
+                }
 
                 Console.Write("Introduce su edad: ");
                 if (!(int.TryParse(Console.ReadLine(), out int edad)))
@@ -52,13 +58,19 @@ namespace Veterinaria
                 {
                     case 1:
                         Console.Write("Introduce la raza: ");
-                        string raza = Console.ReadLine();
+                        string raza = Console.ReadLine().Trim();
+
+                        if (raza == "")
+                        {
+                            Console.WriteLine("No se ha introducido una raza. Se le asignara Mixto...");
+                            raza = "Mixto";
+                        }
 
                         Console.WriteLine("Que nivel de obediencia tiene?\n\t1.-Bajo\n\t2.-Medio\n\t3.-Alto");
                         Console.Write("Respuesta: ");
                         if ((!int.TryParse(Console.ReadLine(), out int select) || select <1  || select > 3))
                         {
-                            Console.Write("Valor no válido. Se le asignará el valor Medio");
+                            Console.WriteLine("Valor no válido. Se le asignará el valor Medio");
                             select = 2;
                         }
                         select -= 1;
@@ -73,7 +85,7 @@ namespace Veterinaria
                         Console.Write("Respuesta: ");
                         if ((!int.TryParse(Console.ReadLine(), out int personal) || personal <1 || personal > 3))
                         {
-                            Console.Write("Valor no válido. Se le asignará el valor Medio");
+                            Console.WriteLine("Valor no válido. Se le asignará el valor Medio");
                             select = 2;
                         }
                         personal -= 1;
@@ -87,7 +99,7 @@ namespace Veterinaria
                         Console.Write("Introduce la fecha de nacimiento del Ave (dd/mm/aa): ");
                         if (!DateTime.TryParse(Console.ReadLine(), out DateTime fecha))
                         {
-                            Console.Write("Formato de fecha no válido. Se asignará la fecha actual");
+                            Console.WriteLine("Formato de fecha no válido. Se asignará la fecha actual");
                             fecha = DateTime.Now;
                         }
 
@@ -101,16 +113,28 @@ namespace Veterinaria
         //Método para recorrer la lista y mostrar el listado de animales guardados en ella.
         public void ListarAnimales()
         {
-            for (int i = 0; i < listaMascotas.Count; i++)
+            if(listaMascotas.Count == 0)
             {
-                Console.Write($"  {i + 1}: -->  ");
-                listaMascotas[i].MostrarInfo();
+                Console.WriteLine("No hay animales en la lista aún");
+            }
+            else { 
+                for (int i = 0; i < listaMascotas.Count; i++)
+                {
+                    Console.Write($"  {i + 1}: -->  ");
+                    listaMascotas[i].MostrarInfo();
+                }
             }
         }
 
         //Metodo que muestra la información detallada de un animal de la lista por índice.
         public void AnimalDetallado()
         {
+            if(listaMascotas.Count == 0)
+            {
+                Console.WriteLine("No hay animales en la lista aun");
+                return;
+            }
+            else{
             ListarAnimales();
             Console.Write("Ingresa el número del animal: ");
             if (int.TryParse(Console.ReadLine(), out int seleccion))
@@ -119,7 +143,7 @@ namespace Veterinaria
 
                 if (seleccion < 0 || seleccion >= listaMascotas.Count)
                 {
-                    Console.Write("No hay ningún animal en esa posición");
+                    Console.WriteLine("No hay ningún animal en esa posición");
                 }
                 else
                 {
@@ -130,35 +154,43 @@ namespace Veterinaria
             {
                 Console.WriteLine("Dato no valido, volviendo...");
             }
-            
+            }
         }
 
         //Metodo que asigna una enfermedad a un animal y la guarda en la lista de enfermedades de ese animal.
         public void DetectarEnfermedad()
         {
-            Console.Write("Escoge un animal por su número para diagnosticar: ");
-            if ((int.TryParse(Console.ReadLine(), out int pos)))
+            if (listaMascotas.Count == 0)
             {
-                pos -= 1;
-                if (pos < 0 || pos >= listaMascotas.Count)
-                {
-                    Console.WriteLine("No existe un animal con ese número");
-                }
-                else
-                {
-
-                    Mascota mascota = listaMascotas[pos];
-
-                    mascota.MostrarInfo(true);
-                    Console.Write("Introduce la enfermedad detectada: ");
-                    string enfermedad = Console.ReadLine().ToLower().Trim();
-
-                    mascota.DetectarEnfermedad(enfermedad);
-                }
+                Console.WriteLine("No hay animales en la lista aun");
+                return;
             }
             else
             {
-                Console.WriteLine("Error, introduce un dato válido");
+                Console.Write("Escoge un animal por su número para diagnosticar: ");
+                if ((int.TryParse(Console.ReadLine(), out int pos)))
+                {
+                    pos -= 1;
+                    if (pos < 0 || pos >= listaMascotas.Count)
+                    {
+                        Console.WriteLine("No existe un animal con ese número");
+                    }
+                    else
+                    {
+
+                        Mascota mascota = listaMascotas[pos];
+
+                        mascota.MostrarInfo(true);
+                        Console.Write("Introduce la enfermedad detectada: ");
+                        string enfermedad = Console.ReadLine().ToLower().Trim();
+
+                        mascota.DetectarEnfermedad(enfermedad);
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Error, introduce un dato válido");
+                }
             }
         }
 
@@ -167,27 +199,37 @@ namespace Veterinaria
         **/
         public void CurarEnfermedad()
         {
-            Console.Write("Escoge un animal por su número para curar: ");
-            if ((int.TryParse(Console.ReadLine(), out int pos))){
-
-                pos -= 1;
-
-                if(pos <0 || pos >= listaMascotas.Count)
-                {
-                    Console.WriteLine("No existe un animal con ese número");
-                }
-                else
-                {
-                    Mascota mascota = listaMascotas[pos];
-                    mascota.MostrarInfo(true);
-                    Console.Write("Introduce la enfermedad a vacunar: ");
-                    string enfermedad = Console.ReadLine().ToLower().Trim();
-                    mascota.Vacunar(enfermedad);
-                }
+            if(listaMascotas.Count == 0)
+            {
+                Console.WriteLine("No hay animales en la lista aun");
+                return;
             }
             else
             {
-                Console.WriteLine("Error, introduce un dato válido");
+
+                Console.Write("Escoge un animal por su número para curar: ");
+                if ((int.TryParse(Console.ReadLine(), out int pos))){
+
+                    pos -= 1;
+
+                    if(pos <0 || pos >= listaMascotas.Count)
+                    {
+                        Console.WriteLine("No existe un animal con ese número");
+                    }
+                    else
+                    {
+                        Mascota mascota = listaMascotas[pos];
+                        mascota.MostrarInfo(true);
+                        Console.Write("Introduce la enfermedad a vacunar: ");
+                        string enfermedad = Console.ReadLine().ToLower().Trim();
+                        mascota.Vacunar(enfermedad);
+                    }
+
+                }
+                else
+                {
+                    Console.WriteLine("Error, introduce un dato válido");
+                }
             }
         }
 

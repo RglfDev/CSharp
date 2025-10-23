@@ -38,7 +38,7 @@ namespace Veterinaria
         {
             if (info)
             {
-                Console.WriteLine($"{Tipo}: {Nombre}:\n\tRaza: {Raza}\n\tEdad: {Edad}\n\tPeso: {Peso} Kg,\n\tAlimentación diaria: {CalcularRacion()} gs");
+                Console.WriteLine($"{Tipo}: {Nombre}:\n\tRaza: {Raza}\n\tEdad: {Edad}\n\tPeso: {Peso:F2} Kg,\n\tAlimentación diaria: {CalcularRacion()} gs");
                 this.ListarEnfermedades();
                 this.ListarVacunas();
             }

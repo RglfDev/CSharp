@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\veterinaria\\veterinaria\\protectora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\protectora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\veterinaria\\veterinaria\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|c:\\users\\lobezno\\desktop\\developer\\tajamar\\c#\\csharp\\veterinaria\\veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA119DE-5143-45DA-AE2B-D24FA580D8FB}|Veterinaria\\Veterinaria.csproj|solutionrelative:veterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Program.cs",
+              "RelativeDocumentMoniker": "Veterinaria\\Program.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Program.cs",
+              "RelativeToolTip": "Veterinaria\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:22:14.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Protectora.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Protectora.cs",
+              "RelativeDocumentMoniker": "Veterinaria\\Protectora.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Protectora.cs",
+              "RelativeToolTip": "Veterinaria\\Protectora.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAwwMEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:21:42.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Mascota.cs",
+              "RelativeDocumentMoniker": "Veterinaria\\Mascota.cs",
+              "ToolTip": "C:\\Users\\LOBEZNO\\Desktop\\Developer\\Tajamar\\C#\\CSharp\\Veterinaria\\Veterinaria\\Mascota.cs",
+              "RelativeToolTip": "Veterinaria\\Mascota.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwDsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:21:14.25Z",
+              "EditorCaption": ""
             }
           ]
         }

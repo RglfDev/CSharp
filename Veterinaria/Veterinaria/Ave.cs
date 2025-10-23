@@ -26,7 +26,7 @@ namespace Veterinaria
        //Metodo MostrarInfo heredado de la clase padre con sobrecarga personalizado (Expilación en clase Perro)
         public override void MostrarInfo(bool info)
         {
-            Console.WriteLine($"{Tipo}: {Nombre}\n\tClase de ave: {TipoAve}\n\tEdad: {Edad}\n\tPeso: {Peso} Kg" +
+            Console.WriteLine($"{Tipo}: {Nombre}\n\tClase de ave: {TipoAve}\n\tEdad: {Edad}\n\tPeso: {Peso:F2} Kg" +
                 $"\n\tFecha de nacimiento: {FechaNacimiento:dd/MM/yyyy} Ración diaria: {CalcularRacion()} gs.");
 
             if (info)

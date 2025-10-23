@@ -1,0 +1,8 @@
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\repasoCSV\repasoCSV\bin\Debug\repasoCSV.exe.config
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\repasoCSV\repasoCSV\bin\Debug\repasoCSV.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\repasoCSV\repasoCSV\bin\Debug\repasoCSV.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\repasoCSV\repasoCSV\obj\Debug\repasoCSV.csproj.AssemblyReference.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\repasoCSV\repasoCSV\obj\Debug\repasoCSV.csproj.CoreCompileInputs.cache
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\repasoCSV\repasoCSV\obj\Debug\repasoCSV.exe
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\repasoCSV\repasoCSV\obj\Debug\repasoCSV.pdb
+C:\Users\LOBEZNO\Desktop\Developer\Tajamar\C#\CSharp\repasoCSV\repasoCSV\obj\Debug\repasoCSV.exe.config
